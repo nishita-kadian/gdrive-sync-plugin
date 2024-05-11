@@ -52,6 +52,6 @@ You'll find a ribbon icon named "Sync" shaped as a cloud on the left sidebar. Cl
 3. Remember to refresh the plugin after making any changes before using it.
 4. If you encounter any issues or have any feedback, feel free to open an issue on the GitHub repository.
 
-## API Documentation
+<!---## API Documentation
 
-See https://github.com/obsidianmd/obsidian-api
+See https://github.com/obsidianmd/obsidian-api--->
