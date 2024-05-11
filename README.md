@@ -20,6 +20,7 @@ To use this plugin, you'll need to follow these steps:
      "client_email": "your-client-email@example.com",
      "private_key": "-----BEGIN PRIVATE KEY-----\nYourPrivateKeyHere\n-----END PRIVATE KEY-----"
    }
+```
 
  Make sure to replace "your-client-email@example.com" with your actual client email and "YourPrivateKeyHere" with your actual private key.
 
