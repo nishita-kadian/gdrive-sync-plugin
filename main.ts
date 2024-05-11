@@ -326,9 +326,9 @@ class SampleSettingTab extends PluginSettingTab {
 
 		new Setting(containerEl)
 			.setName('Sync')
-			.setDesc('Enter the ')
+			.setDesc('Enter the details')
 			.addText(text => text
-                .setPlaceholder('Enter setting value')
+                // .setPlaceholder('Enter setting value')
                 .setValue(this.plugin.settings.mySetting)
                 .onChange(async (value) => {
                     this.plugin.settings.mySetting = value;
