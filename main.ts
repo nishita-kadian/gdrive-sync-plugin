@@ -46,7 +46,7 @@ export default class SyncPlugin extends Plugin {
 		const statusBarItemEl = this.addStatusBarItem();
 		statusBarItemEl.setText('Status Bar Text');
 
-		this.addRibbonIcon('cloud', 'Greet', async () => {
+		this.addRibbonIcon('cloud', 'Sync', async () => {
 			if(this.isCallInProgress){
 				new Notice('A call is already in progress. Please wait for it to complete.');
 				return;
