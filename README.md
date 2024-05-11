@@ -31,7 +31,7 @@ To use this plugin, you'll need to follow these steps:
 10. Enable plugin in settings window.
 11. When you click on the cloud ribbon icon named as "Sync" on left sidebar, sync operation will be executed and you will be notified through a notice on top right.
 
-# Settings
+## Settings
 
 You can customize the plugin settings by navigating to Settings > Community Plugins > Sync Plugin. The following settings are available:
 
@@ -41,11 +41,11 @@ You can customize the plugin settings by navigating to Settings > Community Plug
 	API Private Key: Enter your API private key. This field is password-protected and cannot be copied.
 	Parent Folder: Enter the ID of the parent folder on the Google Drive side.
 
-# Ribbon Icon
+## Ribbon Icon
 
 You'll find a ribbon icon named "Sync" shaped as a cloud on the left sidebar. Clicking this icon triggers a sync operation between your Obsidian vault and Google Drive.
 
-# Additional Notes
+## Additional Notes
 
 1. Ensure that you have the necessary permissions and access rights to the Google Drive files and folders you want to sync.
 2. Avoid naming two or more files with the same name and introducing space within the name, as this may cause conflicts during syncing.
